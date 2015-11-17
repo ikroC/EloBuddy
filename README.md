@@ -1,3 +1,0 @@
-# EloBuddy
-EloBuddy Addons
-fff
